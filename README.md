@@ -1,5 +1,8 @@
 # Credit Card Fraud Detection 
 
+## Context
+Built as part of the **ECX UNILAG** machine learning track.
+
 Machine learning system for detecting fraudulent credit card transactions, 
 trained on 568,630 real-world transactions from the 2023 Kaggle dataset.
 
